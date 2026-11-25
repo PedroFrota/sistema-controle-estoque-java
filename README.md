@@ -13,7 +13,7 @@ Aplicação back-end desenvolvida em **Java** aplicando **Programação Orientad
 
 ---
 
-## 🏗️ Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 sistema-controle-estoque-java/
